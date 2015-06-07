@@ -1,0 +1,4 @@
+include ':app', ':facebook'
+
+include ':testingcrumb'
+include ':AddCrumbActivityTest'

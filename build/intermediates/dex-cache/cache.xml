@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Victor\Desktop\Breadcrumbs492-master\Crumbs\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Victor\Desktop\Breadcrumbs492-master\Crumbs\app\build\intermediates\pre-dexed\debug\classes-e692a7447ce2d77b8fb6dcf99e43f34aacf6ffb0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Victor\Desktop\Breadcrumbs492-master\Crumbs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Victor\Desktop\Breadcrumbs492-master\Crumbs\app\build\intermediates\pre-dexed\debug\classes-cce5e71483e08bb13998fa465ea01eaf6342ebf6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Victor\Desktop\Breadcrumbs492-master\Crumbs\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Victor\Desktop\Breadcrumbs492-master\Crumbs\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-f7d489e699ff922b4b65ee0c4da01521e7f090ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Victor\Desktop\Breadcrumbs492-master\Crumbs\app\build\intermediates\exploded-aar\com.facebook.android\facebook\3.23.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="322e89c6ac786cd6bbdd4228c324b526ceb3b396">
+        <dex dex="C:\Users\Victor\Desktop\Breadcrumbs492-master\Crumbs\app\build\intermediates\pre-dexed\debug\classes-ff3ff1a76ca2eae06baa76a5172fde8a44897d66.jar" />
+    </item>
+    <item
+        jar="C:\Users\Victor\Desktop\Breadcrumbs492-master\Crumbs\app\libs\robotium-solo-5.3.2-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3d08cb50d83c011f27bb6dcc65a5647a88dae461">
+        <dex dex="C:\Users\Victor\Desktop\Breadcrumbs492-master\Crumbs\app\build\intermediates\pre-dexed\debug\robotium-solo-5.3.2-SNAPSHOT-1f7efc59cabdbf8b778c9dad960aed2e0a66bdad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Victor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Victor\Desktop\Breadcrumbs492-master\Crumbs\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-21a5e08cb86b2edae962aaa61d9a5e0a8452e54c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Victor\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\Victor\Desktop\Breadcrumbs492-master\Crumbs\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-e139ca259ff5bfaffd213925a93d62e6651f136d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Victor\Desktop\Breadcrumbs492-master\Crumbs\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Victor\Desktop\Breadcrumbs492-master\Crumbs\app\build\intermediates\pre-dexed\debug\classes-fa821449a10879d63d9a536f01cd56a3812969d8.jar" />
+    </item>
+
+</items>
